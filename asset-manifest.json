@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-portfolio/static/css/main.d9b44b20.css",
+    "main.js": "/e-portfolio/static/js/main.6e8d0c30.js",
+    "static/media/Food.png": "/e-portfolio/static/media/Food.7e61040b4f87d2f7798d.png",
+    "static/media/expense-tracker.png": "/e-portfolio/static/media/expense-tracker.896439e407cb5ae26a6a.png",
+    "static/media/dragon_trainer.png": "/e-portfolio/static/media/dragon_trainer.f8444369d4885c172414.png",
+    "static/media/new_quote.png": "/e-portfolio/static/media/new_quote.10a36c75fa9645308b60.png",
+    "static/media/VS-logo-blue.png": "/e-portfolio/static/media/VS-logo-blue.146e4d1e4f7733e14387.png",
+    "static/media/python-img.png": "/e-portfolio/static/media/python-img.3bc93fd1f31ea0c0ae76.png",
+    "static/media/bitmoji.png": "/e-portfolio/static/media/bitmoji.97369d933d0b1938f0e1.png",
+    "static/media/css.png": "/e-portfolio/static/media/css.264415479ae604937c33.png",
+    "static/media/html.png": "/e-portfolio/static/media/html.0beb3c3a0c135dcf2196.png",
+    "index.html": "/e-portfolio/index.html",
+    "main.d9b44b20.css.map": "/e-portfolio/static/css/main.d9b44b20.css.map",
+    "main.6e8d0c30.js.map": "/e-portfolio/static/js/main.6e8d0c30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9b44b20.css",
+    "static/js/main.6e8d0c30.js"
+  ]
+}
